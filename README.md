@@ -1,2 +1,2 @@
-# mat-react
+# mat
 A web based application tracker
