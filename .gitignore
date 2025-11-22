@@ -1,0 +1,5 @@
+api/.vs/*
+api/Mnm.Mat.Api/.vs/*
+api/Mnm.Mat.Api/bin/*
+api/Mnm.Mat.Api/obj/*
+api/Mnm.Mat.Domain/obj/*
